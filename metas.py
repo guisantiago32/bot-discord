@@ -320,4 +320,3 @@ async def painel(
     )
 
 registrar_ticket_comando(bot)
-bot.run(TOKEN)
