@@ -1,0 +1,32 @@
+[
+    1137487510713421965,
+    473540627045548053,
+    {
+        "id": "1234",
+        "nome": "Derick",
+        "meta": "100 drogas"
+    },
+    {
+        "id": "5165",
+        "nome": "max",
+        "meta": "10"
+    },
+    {
+        "id": "1234",
+        "nome": "santiago",
+        "meta": "100 drogas",
+        "print": "https://cdn.discordapp.com/attachments/1523485194521280636/1552825288596000788/mta-screen_2026-09-11_00-10-07.png?ex=6ab704be&is=6ab5b33e&hm=be9426e9400379639d7f1936e838f49606f7da294decabc670fa2292623e0611&"
+    },
+    {
+        "id": "5481",
+        "nome": "rabico",
+        "meta": "100,00000",
+        "print": "https://cdn.discordapp.com/attachments/1523485194521280636/1552826087640408174/Captura_de_tela_2026-09-21_160325.png?ex=6ab7057d&is=6ab5b3fd&hm=3177de7d5f0b77d6b8fba3d1c776afefe7103694f701d54936e290267e859d77&"
+    },
+    {
+        "id": "3391",
+        "nome": "eugenio dygeras",
+        "meta": "99999999999",
+        "print": "https://cdn.discordapp.com/attachments/1523485194521280636/1552828406368829480/Captura_de_tela_2026-09-10_213203.png?ex=6ab707a6&is=6ab5b626&hm=93460429813560abcba2185de6469fcb218af4719b0f48bf3e7be5c28af2a4bf&"
+    }
+]
